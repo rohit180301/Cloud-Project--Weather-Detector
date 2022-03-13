@@ -2,4 +2,4 @@
 
 Simple weather app using HTML, CSS, and JavaScript
 
-![myimg](https://user-images.githubusercontent.com/64881669/158049289-ffa61eb2-a9a1-41c6-bd74-559238be87b1.jpg)
+![weather](https://user-images.githubusercontent.com/62435594/158052106-42f99cf7-042b-4159-b47e-2941086c3d43.png)
